@@ -9,6 +9,7 @@
 [x] The "Remove All" option only clears the table and the map when de delete operation has been successful.
 
 ---
+### Description:
 We have asked for a freelance job on an online freelance software development marketplace but unfortunately the person that accepted the work had to leave the project for personal reasons.
 
 So it's here where we need you help.
