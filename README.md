@@ -6,7 +6,7 @@
 
 [x] The correct pin is beeing removed according to the selected delivery.
 
-[x] The "Remove All" option only clears the table and the map when de delete operation has been successful.
+[x] The "Remove All" option only clears the table and the map when the delete operation has been successful.
 
 ---
 ### Description:
