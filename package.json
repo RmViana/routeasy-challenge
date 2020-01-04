@@ -7,16 +7,8 @@
     "test": "nodemon index.js",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gustavosantosneto/rout-easy-challenge-fullstack.git"
-  },
-  "author": "Gustavo Santos Neto",
+  "author": "Romildo Alves",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gustavosantosneto/rout-easy-challenge-fullstack/issues"
-  },
-  "homepage": "https://github.com/gustavosantosneto/rout-easy-challenge-fullstack#readme",
   "dependencies": {
     "consign": "^0.1.6",
     "consign-ignore": "^0.1.4",
