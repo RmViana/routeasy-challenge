@@ -1,8 +1,11 @@
 # routeasy-challenge-fullstack in-loco
 
 Outcome:
+
 [x] All the routes related to the deliveries have been implemented.
+
 [x] The correct pin is beeing removed according to the selected delivery.
+
 [x] The "Remove All" option only clears the table and the map when de delete operation has been successful.
 
 ---
